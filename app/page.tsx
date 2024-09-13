@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <Button variant="destructive" className="px-10">Ashmit</Button>
+      <Button variant="destructive" className="px-10">Ashmit ne branch</Button>
     </main>
   );
 }
